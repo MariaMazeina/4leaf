@@ -1,0 +1,29 @@
+.back{
+    font-size: 40px;
+    background-color: green;
+}
+
+.body{
+    font-size: 40px;
+    background-image: url(img/background_photo.jpeg);
+}
+.alphabet{
+    font-size: 30px;
+    display:block;
+    background-color: rgb(179, 137, 89);
+}
+
+.symbols{
+    width: 400px;
+    display:block;
+    float: left;
+    padding: 10px;
+}
+
+.rules{
+    background-color: rgb(170, 83, 61);
+}
+
+.exeptions{
+    background-color: rgb(74, 156, 85);
+}

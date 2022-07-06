@@ -1,0 +1,165 @@
+.back{
+    font-size: 40px;
+    background-color: green;
+}
+
+.member1{
+    font-size: 80px;
+    background:linear-gradient(180deg, rgb(211, 120, 247), rgb(182, 11, 105));
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .iris{
+    background-image: url(img/iris\ wallpaper.jpg);
+    vertical-align:middle;
+    width: 500px;
+    height: 200px;
+    font-size: 40px;
+    color:rgb(32, 4, 54);
+    margin-left: 550px;
+    margin-right: 0;
+    margin-top: -450px;
+  }
+
+  .iris2{
+    background-image: url(img/iris\ wallpaper.jpg);
+    display:block;
+    margin-top: 250px;
+    font-size: 50px;
+  }
+
+  .iris3{
+    background-image: url(img/iris\ wallpaper.jpg);
+    font-size: 40px;
+    width:200px;
+    margin-left: 1200px;
+    margin-top: -390px;
+}
+
+  .member2{
+    font-size: 80px;
+    animation-duration: 3s;
+    background:linear-gradient( rgb(128, 77, 185), rgb(47, 7, 73));
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .lilac{
+    background-image: url(img/lilac.jpeg);
+    font-size: 40px;
+    width:470px;
+    margin-left: 450px;
+    margin-top: -450px;
+    color:rgb(3, 3, 56);
+  }
+
+  .lilac2{
+    background-image: url(img/lilac.jpeg);
+    display:block;
+    margin-top: 300px;
+    font-size: 50px;
+  }
+
+  .lilac3{
+    background-image: url(img/lilac.jpeg);
+    font-size: 40px;
+    width:300px;
+    margin-left: 1050px;
+    margin-top: -390px
+  }
+
+  .member3{
+    font-size: 80px;
+    animation-duration: 3s;
+    background: linear-gradient( rgb(235, 232, 78), rgb(175, 144, 7));
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .melissa{
+    background-image: url(img/melissa.webp);
+    font-size: 40px;
+    width:470px;
+    margin-left: 450px;
+    margin-top: -400px;
+  }
+
+  .melissa2{
+    background-image: url(img/melissa.webp);
+    display:block;
+    margin-top: 300px;
+    font-size: 50px;
+  }
+
+  .melissa3{
+    background-image: url(img/melissa.webp);
+    font-size: 40px;
+    width:300px;
+    margin-left: 1050px;
+    margin-top: -450px
+  }
+
+
+  .member4{
+    font-size: 80px;
+    animation-duration: 3s;
+    background: linear-gradient(90deg, rgb(127, 199, 46), rgb(58, 85, 14));
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .cherry{
+    background-image: url(img/cherry2.jpeg);
+    font-size: 40px;
+    width:470px;
+    margin-left: 450px;
+    margin-top: -400px;
+    color: rgb(15, 15, 65);
+  }
+
+  .cherry2{
+    background-image: url(img/cherry2.jpeg);
+    display:block;
+    margin-top: 300px;
+    font-size: 50px;
+    color: rgb(15, 15, 65);
+  }
+
+  .cherry3{
+    background-image: url(img/cherry2.jpeg);
+    font-size: 40px;
+    width:300px;
+    margin-left: 1050px;
+    margin-top: -450px;
+    color: rgb(15, 15, 65);
+  }
+
+  .ksusha{
+    width: 500px;
+  }
+
+  .sasha{
+    width: 400px;
+  }
+
+  .alisa{
+    width: 400px;
+  }
+  
+  .masha{
+    width:400px;
+  }
+

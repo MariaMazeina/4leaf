@@ -1,0 +1,26 @@
+.back{
+    font-size: 40px;
+    background-color: green;
+}
+
+.body, .yab{
+    font-size: 30px;
+    background-color: rgb(197, 255, 197);
+}
+    
+
+.yablonya{
+    width: 350px; 
+}
+
+.yablonya2{
+    height: 250px; 
+}
+
+.ya{
+   font-size: 40px;
+}
+
+.herb{
+    width:100px;
+}

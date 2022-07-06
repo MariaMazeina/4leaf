@@ -1,0 +1,104 @@
+.general{
+    font-size: 70px;
+    color: rgb(245, 234, 250);   
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+
+
+.cover{
+    background-image: url(img/background_photo.jpeg);
+    height: 100vh;
+    width: 100%;
+    max-height: 100%;
+    background-color: rgba(37, 73, 8, 0.603);
+    background-attachment: fixed;
+    /*background-size: cover;
+    background-repeat: no-repeat;*/
+  }
+  /*animation-name: sunset;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    background: linear-gradient(108deg, rgb(129, 196, 84), rgb(48, 85, 14));
+    height: 100vh;*/
+  
+  .pic_together{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border-radius: 50%;
+    transition: transform 10s;
+  }
+  .pic_together:hover{
+  transform: rotateY(360deg);
+  }
+
+  .pic_together1{
+    display: block;
+    margin-left: 0;
+    margin-right: 100px;
+    margin-top: -600px;
+    width: 300px;
+    border-radius: 50%;
+    transition: transform 10s;
+  }
+  .pic_together1:hover{
+    transform: rotateY(360deg);
+    }
+
+    .pic_together2{
+    display: block;
+    margin-left: 1050px;
+    margin-right: 0;
+    margin-top: 200px;
+    width: 310px;
+    border-radius: 50%;
+    transition: transform 10s;
+    }
+    .pic_together2:hover{
+        transform: rotateY(360deg);
+        }
+
+    .pic_together3{
+    display: block;
+    margin-left: 1050px;
+    margin-right: 0;
+    margin-top: -600px;
+    width: 310px;
+    border-radius: 50%;
+    transition: transform 10s;
+    }
+    .pic_together3:hover{
+        transform: rotateY(360deg);
+        }
+
+    .pic_together4{
+    display: block;
+    margin-left: 0px;
+    margin-right: 100px;
+    margin-top: 150px;
+    width: 300px;
+    border-radius: 50%;
+    transition: transform 10s;
+    }
+    .pic_together4:hover{
+        transform: rotateY(360deg);
+        }
+
+  
+  .intro{
+      font-size: 80px;
+      height: 100vh;
+      width: 100%;
+      max-height: 100%;
+      background-color: rgba(37, 73, 8, 0.603);
+      background-attachment: fixed;
+  } 
+
+  .video{
+    background-image: url(img/background_photo.jpeg);
+    text-align: center;
+  }
+

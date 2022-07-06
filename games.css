@@ -1,0 +1,49 @@
+.back{
+    font-size: 40px;
+    background-color: green;
+}
+    
+.canuwork{
+    font-size: 80px;
+    background: url(img/background_photo.jpeg);
+    color:white;
+}
+
+.el{
+    background: rgba(0, 0, 0, 0.521);
+    text-align: center;
+}
+
+.el2{
+    color:rgb(151, 78, 132);
+}
+
+.lan{
+   color: white;
+}
+.al{
+    background: rgba(0, 0, 0, 0.521);
+    text-align: center;
+}
+
+.al2{
+    color: rgb(233, 138, 83);
+}
+
+.do{
+    background: rgba(0, 0, 0, 0.521);
+    text-align: center;
+}
+
+.do2{
+    color: rgb(128, 114, 253);
+}
+
+.ka{
+    background: rgba(0, 0, 0, 0.521);
+    text-align: center;
+}
+
+.ka2{
+    color: rgb(243, 220, 89);
+}

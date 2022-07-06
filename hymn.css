@@ -1,0 +1,22 @@
+.body{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(48, 99, 0);
+    background-image: url(img/yablonya_spring.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.try{
+    background-color: #ffffff7a;
+}
+
+.back{
+    color: white;
+}
+
+.hymn{
+    color:aquamarine;
+    margin-top: top;
+}

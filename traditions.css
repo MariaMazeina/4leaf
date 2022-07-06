@@ -1,0 +1,36 @@
+.calendar{
+    width: 500px;
+    display: block;
+    float: left;
+    padding: 80px;
+    margin-top: -100px;
+}
+
+.name{
+    font-size: 50px;
+}
+
+.holidays{
+    font-size: 25px;
+    text-align: left;
+    background-image: url(img/background3.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text{
+    background-color: rgba(15, 37, 8, 0.301);
+    height: 100%;
+    padding-left: 200px;
+    color: white;
+}
+
+.date{
+    color:rgb(114, 25, 230);
+    padding-top: 1em;
+}
+
+.back{
+    font-size: 40px;
+    background-color: green;
+}
