@@ -1,3 +1,7 @@
+.body{
+  max-width: 100%;
+}
+
 .general{
     font-size: 70px;
     color: rgb(245, 234, 250);   
